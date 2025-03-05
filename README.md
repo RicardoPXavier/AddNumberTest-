@@ -70,9 +70,9 @@ O processo de teste foi estruturado em várias etapas:
     mvn test
   
  - Os testes serão executados automaticamente e os resultados serão exibidos no terminal.
-  
- - Conclusão
+
+## Conclusão
   
  - A partir da automação dos testes, foi possível garantir que o método add() funciona corretamente para diversas entradas, incluindo cenários normais e casos especiais. Eventuais falhas encontradas foram corrigidas e a suíte de testes se mostrou robusta.
   
-Autor: Ricardo de Paula Xavier
+## Autor: Ricardo de Paula Xavier
